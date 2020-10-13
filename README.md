@@ -69,6 +69,7 @@ Now, you can see the changes in your github forked repo.
 ![](https://github.com/dsc-cvrgu/hacktoberfest2020/blob/main/images/pullrequest-send.png)
  Now, click on the pull request icon on your repo,and send a pull request with comment of what has been changed,added or modified. Wait,Until your request is accepted.
 #### Done, Now Similarly contribute and send 4 pull request and Earn a T-Shirt.
+![](https://github.com/dsc-cvrgu/hacktoberfest2020/blob/main/images/tshirt.jpg)
 
 
 <p align="center">
