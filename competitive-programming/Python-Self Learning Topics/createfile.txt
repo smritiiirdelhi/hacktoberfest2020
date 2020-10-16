@@ -1,0 +1,2 @@
+Above code is used to create a file through python
+And this is a line inside the text file.
